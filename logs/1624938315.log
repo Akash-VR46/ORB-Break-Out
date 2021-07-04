@@ -1,0 +1,20 @@
+29-Jun-21 09:15:28:MainThread:(INFO): Downloading master contracts for exchange: NFO
+29-Jun-21 09:15:30:MainThread:(INFO): Downloading master contracts for exchange: MCX
+29-Jun-21 09:15:31:MainThread:(INFO): Downloading master contracts for exchange: NFO
+29-Jun-21 09:15:32:MainThread:(INFO): Downloading master contracts for exchange: MCX
+29-Jun-21 09:36:02:MainThread:(INFO): High Breakout at 15857.4 
+29-Jun-21 09:36:02:Thread-5:(INFO): placed sell oreder of NIFTY JUL 15800.0 PE 
+29-Jun-21 09:36:02:Thread-5:(INFO): placed Buy oreder of NIFTY JUL 15700.0 PE 
+29-Jun-21 09:36:03:Thread-5:(INFO): Tarfget -4.0
+29-Jun-21 09:36:03:Thread-5:(INFO): sl 4.0
+29-Jun-21 09:36:08:Thread-6:(INFO): sl hitted
+29-Jun-21 09:36:08:Thread-6:(INFO): placed buy order for squareoff with lot 750 at 35.55000000000001
+29-Jun-21 09:36:09:Thread-6:(INFO): placed sell order for squareoff with lot 750 at 35.55000000000001
+29-Jun-21 10:01:09:MainThread:(INFO): Low Breakout at 15787.65 
+29-Jun-21 10:01:09:Thread-7:(INFO): placed sell oreder of 210629000055191 
+29-Jun-21 10:01:09:Thread-7:(INFO): placed Buy oreder of 210629000055202 
+29-Jun-21 10:01:10:Thread-7:(INFO): target -4.0
+29-Jun-21 10:01:10:Thread-7:(INFO): sl 4.0
+29-Jun-21 10:01:13:Thread-8:(INFO): SL hit
+29-Jun-21 10:01:13:Thread-8:(INFO): placed sell order for squareoff with lot 750 at 42.900000000000006
+29-Jun-21 10:01:13:Thread-8:(INFO): placed buy order for squareoff with lot 750 at 42.900000000000006

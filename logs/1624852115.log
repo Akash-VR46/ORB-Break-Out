@@ -1,0 +1,9 @@
+28-Jun-21 09:18:45:MainThread:(INFO): Downloading master contracts for exchange: NFO
+28-Jun-21 09:18:47:MainThread:(INFO): Downloading master contracts for exchange: MCX
+28-Jun-21 09:18:47:MainThread:(INFO): Downloading master contracts for exchange: NFO
+28-Jun-21 09:18:49:MainThread:(INFO): Downloading master contracts for exchange: MCX
+28-Jun-21 09:37:48:MainThread:(INFO): Low Breakout at 15893.95 
+28-Jun-21 09:37:48:Thread-3:(INFO): placed sell oreder of 210628000032421 
+28-Jun-21 09:37:49:Thread-3:(INFO): placed Buy oreder of 210628000032433 
+28-Jun-21 09:37:49:Thread-3:(INFO): target -4.0
+28-Jun-21 09:37:49:Thread-3:(INFO): sl 4.0

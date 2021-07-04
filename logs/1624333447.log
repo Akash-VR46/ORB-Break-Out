@@ -1,0 +1,9 @@
+22-Jun-21 09:14:07:MainThread:(INFO): sleeping till trade time
+22-Jun-21 09:15:16:MainThread:(INFO): Downloading master contracts for exchange: NFO
+22-Jun-21 09:15:17:MainThread:(INFO): Downloading master contracts for exchange: MCX
+22-Jun-21 09:39:37:MainThread:(INFO): High Breakout at 15853.1 
+22-Jun-21 09:39:37:MainThread:(INFO): placed sell oreder of 210622000038935 
+22-Jun-21 09:39:37:MainThread:(INFO): placed Buy oreder of 210622000038942 
+22-Jun-21 09:39:41:Thread-3:(INFO): sl hitted
+22-Jun-21 09:39:41:Thread-3:(INFO): placed buy order for squareoff with lot 750 at 24.599999999999998
+22-Jun-21 09:39:41:Thread-3:(INFO): placed sell order for squareoff with lot 750 at 24.599999999999998
